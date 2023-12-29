@@ -6,9 +6,8 @@
 ### Инвариантная самостоятельная работа    
 [Задание 1.1](https://github.com/tannia6849/master_sem2_practis2/blob/main/1_1)  
 [Задание 1.2](https://github.com/tannia6849/master_sem2_practis2/blob/main/ИСР_1_1.pdf)  
-[Задание 1.3](https://github.com/tannia6849/master_sem2_practis2/blob/main/ИСР_1_1.pdf)   
 
 ### Вариативная самостоятельная работа  
 [Задание 2.1](https://github.com/tannia6849/master_sem2_practis2/blob/main/ВСР_2.1.pdf)  
 [Задание 2.2](https://github.com/tannia6849/master_sem2_practis2/blob/main/ВСР_2.1.pdf)  
-[Задание 2.3](https://github.com/tannia6849/master_sem2_practis2/blob/main/ВСР_2.1.pdf)  
+
